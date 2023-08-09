@@ -51,5 +51,3 @@ The architecture of the PDF Generation Script project consists of the following 
 The PDF Generation Script project demonstrates the capabilities of transforming data into professionally designed PDF documents. This system design serves as a foundation for expanding the project's features and enhancing its visual appeal.
 
 ---
-
-**Note:** This document provides a high-level overview of the PDF Generation Script project's system design. Customize the content based on your project's specifics.

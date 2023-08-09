@@ -42,5 +42,3 @@ Feel free to contribute by suggesting improvements or enhancements through pull 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Note:** This `README.md` file provides an overview of the PDF Generation Script. Customize the content based on your project's specifics.
